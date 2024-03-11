@@ -4,6 +4,8 @@
 
 This project is a web application designed to provide users with real-time weather updates and forecasts in an intuitive and visually appealing manner. Leveraging the power of Vue.js, this project aims to create a seamless and interactive experience for users seeking accurate weather information.
 
+![Uploading Ảnh màn hình 2024-03-11 lúc 12.20.39.png…]()
+
 ## Key Features
 
 ### Responsive Design: 
